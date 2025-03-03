@@ -121,3 +121,6 @@ Estes problemas são particularmente críticos em:
 
 A mitigação geralmente envolve técnicas como profiling não-intrusivo, escalonamento de tempo real, kernel com preempção, otimização de safepoints e garbage collectors concorrentes ou incrementais.
 ```
+
+## Threads virtuais
+- adote em contexto que existe bloqueio
